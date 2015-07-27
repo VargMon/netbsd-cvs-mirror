@@ -1,0 +1,2 @@
+# $NetBSD: ad.powerpc,v 1.1.10.2 2015/01/16 14:24:39 martin Exp $
+./usr/bin/fdformat				base-util-bin

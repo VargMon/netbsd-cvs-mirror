@@ -1,0 +1,2 @@
+# $NetBSD: rescue.ad.m68k.shl,v 1.2.62.1 2014/04/21 10:03:09 bouyer Exp $
+./rescue/ldconfig				base-rescue-root	pic
